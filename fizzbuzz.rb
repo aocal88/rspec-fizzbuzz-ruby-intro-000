@@ -11,3 +11,5 @@ def fizzbuzz(int)
     nil
   end
 end
+
+fizzbuzz(15)
